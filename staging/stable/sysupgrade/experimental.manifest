@@ -1,0 +1,51 @@
+BRANCH=experimental
+DATE=2015-04-20 14:58:41+02:00
+PRIORITY=0
+
+tp-link-cpe210-v1.0 0.2.1 ce0b35131f402de708a0f79a4a3825f39a83849a995dc128b7778ed192acc414571eb98ffaa2e354458a3ed1acc883748eeb846159875cf4303fe3e368f87543 gluon-ffsaar-0.2.1-tp-link-cpe210-v1.0-sysupgrade.bin
+tp-link-cpe220-v1.0 0.2.1 ce0b35131f402de708a0f79a4a3825f39a83849a995dc128b7778ed192acc414571eb98ffaa2e354458a3ed1acc883748eeb846159875cf4303fe3e368f87543 gluon-ffsaar-0.2.1-tp-link-cpe220-v1.0-sysupgrade.bin
+tp-link-cpe510-v1.0 0.2.1 ce0b35131f402de708a0f79a4a3825f39a83849a995dc128b7778ed192acc414571eb98ffaa2e354458a3ed1acc883748eeb846159875cf4303fe3e368f87543 gluon-ffsaar-0.2.1-tp-link-cpe510-v1.0-sysupgrade.bin
+tp-link-cpe520-v1.0 0.2.1 ce0b35131f402de708a0f79a4a3825f39a83849a995dc128b7778ed192acc414571eb98ffaa2e354458a3ed1acc883748eeb846159875cf4303fe3e368f87543 gluon-ffsaar-0.2.1-tp-link-cpe520-v1.0-sysupgrade.bin
+tp-link-tl-wr703n-v1 0.2.1 1d4e78bf75e15e2b34abe93e0461b0e98c43f4e6689e41990e703a2ba4141de6a5d37c1bb4318e6e6bba4d11b498c9a41c310444f56189286a9a980d1865bc8f gluon-ffsaar-0.2.1-tp-link-tl-wr703n-v1-sysupgrade.bin
+tp-link-tl-wr710n-v1 0.2.1 71fba7885c60001da7c6a91a1a262c66fa7a6eea7f6befef6369e86205b7c0a8d3177272e5be51c6c8a6244f232b2fbfca775152eb0875b65656380a142165ad gluon-ffsaar-0.2.1-tp-link-tl-wr710n-v1-sysupgrade.bin
+tp-link-tl-wr740n-nd-v1 0.2.1 d5d553d4a10c89580b56df86d4b5cbb1e28e46736c80756103e6f7512400895675258215b71149e5a3abc9540ee045edb084cc2937176faaaec4790a73d04753 gluon-ffsaar-0.2.1-tp-link-tl-wr740n-nd-v1-sysupgrade.bin
+tp-link-tl-wr740n-nd-v3 0.2.1 58f0963291df88710351a2e3921626659187e51b2a4a4267eca4031b5eecd638ce022f5b494b97cb1b33710a0ce8f2388b996d2a064dcfcc43de60f66ca4f230 gluon-ffsaar-0.2.1-tp-link-tl-wr740n-nd-v3-sysupgrade.bin
+tp-link-tl-wr740n-nd-v4 0.2.1 4aa3d25bcbac21810c8f3b82bdd50aec36e89fb764e26b9d3261b821163b14c7536749961d31d7385bb91bc42f384750afe4a7f6ddb02ffba3d1d082871a8ae6 gluon-ffsaar-0.2.1-tp-link-tl-wr740n-nd-v4-sysupgrade.bin
+tp-link-tl-wr741n-nd-v1 0.2.1 8d1cc207ceb847e5bad6a3c7a8baf2110a3d8b232b7c4e1808b81c32d7dda8881860aa3b3310b88c8028aa779d599535cb7c8053086377e9ae0341ceb7e348e0 gluon-ffsaar-0.2.1-tp-link-tl-wr741n-nd-v1-sysupgrade.bin
+tp-link-tl-wr741n-nd-v2 0.2.1 8d1cc207ceb847e5bad6a3c7a8baf2110a3d8b232b7c4e1808b81c32d7dda8881860aa3b3310b88c8028aa779d599535cb7c8053086377e9ae0341ceb7e348e0 gluon-ffsaar-0.2.1-tp-link-tl-wr741n-nd-v2-sysupgrade.bin
+tp-link-tl-wr741n-nd-v4 0.2.1 875a33f0e0311438668648a444e0618a6479a17a2b187d2475ed29054cf9554e90fd4254f8a717928db11f571ae453927a83977faf0c5b610b908cdc3fc159ef gluon-ffsaar-0.2.1-tp-link-tl-wr741n-nd-v4-sysupgrade.bin
+tp-link-tl-wa801n-nd-v2 0.2.1 0fabe4a9b40bcdc524c26698a384575035e5e5d792094f44f6b6538d0aee024146c1b656a3fc229326755b42b25af486d8bde3651bddba834fadbe9a1dac53db gluon-ffsaar-0.2.1-tp-link-tl-wa801n-nd-v2-sysupgrade.bin
+tp-link-tl-wr841n-nd-v3 0.2.1 f07f5962a82ac0d0594962267da19442c4cc2eaed422c33369abf72f868e6c61ec03098889309c8e71e01a7e1f06951f1125547cc44534722d1013f55149c59d gluon-ffsaar-0.2.1-tp-link-tl-wr841n-nd-v3-sysupgrade.bin
+tp-link-tl-wr841n-nd-v5 0.2.1 3f8533c4857aca01a9688c872ff1b9005ea9e3182516a6f8f0e1727cf4d901dcf82e67df70e6b7979afca90017f26c131f24c3e5c6d951173b1b50379245f49d gluon-ffsaar-0.2.1-tp-link-tl-wr841n-nd-v5-sysupgrade.bin
+tp-link-tl-wr841n-nd-v7 0.2.1 6910598c11f5eef03be1f8521df747af631c4bef500ca4b864cd13e50fe986ddffa6d0da5caf8649fb93211f27afa90978723a7287d9f1eac78d4adca1e29745 gluon-ffsaar-0.2.1-tp-link-tl-wr841n-nd-v7-sysupgrade.bin
+tp-link-tl-wr841n-nd-v8 0.2.1 5f10a5fcf0e40115834d9fcf916efd5843d287d5d30c81934c9bc5f0fcb3c82901edbd460fe7e199a45fd2b4abc2a6a73d3d5239ec2a551dec3a6f0899b6dffc gluon-ffsaar-0.2.1-tp-link-tl-wr841n-nd-v8-sysupgrade.bin
+tp-link-tl-wr841n-nd-v9 0.2.1 197ca0d7f6a9fe29438143b0dce9546cfa9a94b964b8a16846f12622ee141e00d1ff1aef19fda0a24d6f11a3d47b1caa592cf43808ff19a4dfe8ac080f38f46c gluon-ffsaar-0.2.1-tp-link-tl-wr841n-nd-v9-sysupgrade.bin
+tp-link-tl-wr842n-nd-v1 0.2.1 02f677a51443ff4a58af70958291d50c4445e7ead5aebd5da3631e1375316326dff162ca84989c782df70b65fe81130ad0e96b724993c5a87a6b41e3033b4a3b gluon-ffsaar-0.2.1-tp-link-tl-wr842n-nd-v1-sysupgrade.bin
+tp-link-tl-wr842n-nd-v2 0.2.1 b13c66457ad02a6acaa2cff5688d168c427cf3b5b86220ff42015831c2b13f5846d94a25a2ef1f4ee6cd123a54ba35fcd07529de6414d8c05f712837aad96275 gluon-ffsaar-0.2.1-tp-link-tl-wr842n-nd-v2-sysupgrade.bin
+tp-link-tl-wr941n-nd-v2 0.2.1 e646ea6a199ccb23883362b3055a2e2e21995c7e7f6b99e35c3707c58a81c8316bebe89c838b93a6168fae74b9fdd4c634b5a5fc1bab9c3192f6824049a1c798 gluon-ffsaar-0.2.1-tp-link-tl-wr941n-nd-v2-sysupgrade.bin
+tp-link-tl-wr941n-nd-v3 0.2.1 d849e8b1381964dc56a2f1f9b8238e8b5fb67302fd641a897ced6ddd99c881a82e3e7169ddde318ed590436aac3affd24e67275a2e1c182a9a591d2b78b071d4 gluon-ffsaar-0.2.1-tp-link-tl-wr941n-nd-v3-sysupgrade.bin
+tp-link-tl-wr941n-nd-v4 0.2.1 9a376cf3da20098c4923227f7e1ad1da3e2e1132a1a92f4eb866584fb3a243715c244e7c7611930ce0eed3b75ca868b5e93f3a5d3289873a96d45590d2f454ad gluon-ffsaar-0.2.1-tp-link-tl-wr941n-nd-v4-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v1 0.2.1 3cb9109d8d2e3a45bf84dd3c392cfeb462220c5aa20988805739bc7054311822a797cf331375415ee998aab64ac74ef5c2a48cb909a43b7d74e2bf860bccfdc4 gluon-ffsaar-0.2.1-tp-link-tl-wr1043n-nd-v1-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v2 0.2.1 5fb6ee200613ca1ff48b9b7075c7bb5e22b2f7aac90e364874772da469253e78a8ce192666310c3ce243745a3d4adf5c173189d9e6e41aae959454f4381bd2bf gluon-ffsaar-0.2.1-tp-link-tl-wr1043n-nd-v2-sysupgrade.bin
+tp-link-tl-wdr3500-v1 0.2.1 7aa948a0eaf287697dda9393e0410e84557f444db373e42b17c5ae3882df6c7eff2062ba8af8c369bdd27e93e3d494a1f6ec8cfbc0a071b4c7f296ac017e09be gluon-ffsaar-0.2.1-tp-link-tl-wdr3500-v1-sysupgrade.bin
+tp-link-tl-wdr3600-v1 0.2.1 126de72b798abee3e66810a0f6a123fba9b2c6afa42498b1b4bd5a85f7e26995b59111d13963ee7f4f5c05aa3a0045d5bfc567f88f609b94224b0bfd7d788f4b gluon-ffsaar-0.2.1-tp-link-tl-wdr3600-v1-sysupgrade.bin
+tp-link-tl-wdr4300-v1 0.2.1 1aa1da078ff4163277896ff9fec95125e4ee51ff3e88175408487fa34fd7e8a9b97e0ebd23455691cd738cdceadfcd2585d929c26ff20f2b3c7c38ecbf02ef57 gluon-ffsaar-0.2.1-tp-link-tl-wdr4300-v1-sysupgrade.bin
+tp-link-tl-wa750re-v1 0.2.1 721206ff05fd1391d2a2f25e50ec9909c6adf65a28c79722cad6a1bf0f01c4a9e127313d06765f504d2a17c37f7aeb1a9bbb0b7b016427e20097b87d3e013ef3 gluon-ffsaar-0.2.1-tp-link-tl-wa750re-v1-sysupgrade.bin
+tp-link-tl-wa850re-v1 0.2.1 7a1b6667c81bf005c9b43aadfb465cf12dfc86db1ec4890ced97ec8ad27b78c6ab4b235c89cf9600ec964d7766725786e8b7b5e6544b424f1a3a6c7d80fa035c gluon-ffsaar-0.2.1-tp-link-tl-wa850re-v1-sysupgrade.bin
+tp-link-tl-wa901n-nd-v2 0.2.1 ea5faaf59763e1c6d60b3ee04a7221476b932315e64c114b91e1620772942df95497f53119717ff201aaf273fa39e080546eb7c7ae9d66a72775de949eb5c718 gluon-ffsaar-0.2.1-tp-link-tl-wa901n-nd-v2-sysupgrade.bin
+tp-link-tl-mr3020-v1 0.2.1 372078c1d07d5441b3aefdb5993b529e363c439b460c67f7d0e60bba7e3a56688b7ee0688c080d575d536a27cd8117c2ad4c1496756136d5860dbcc751e4f4b7 gluon-ffsaar-0.2.1-tp-link-tl-mr3020-v1-sysupgrade.bin
+tp-link-tl-mr3040-v1 0.2.1 d563efcf469923b33b81d5aa61ae2748ac4255d5c233874ddbac8427cc4f734f475640f294faa132cc60f4a9f16da455bd18b52ae319faa550a0f18414375049 gluon-ffsaar-0.2.1-tp-link-tl-mr3040-v1-sysupgrade.bin
+tp-link-tl-mr3040-v2 0.2.1 c0a0bc1a365bff5cabe4a537d9ff87efdb4bb24145408f7447ac73c298f222653ea6a2ec531711f14f8e9a4a3853fd6a49b2049830a4e4a5fad4ceb862e99602 gluon-ffsaar-0.2.1-tp-link-tl-mr3040-v2-sysupgrade.bin
+tp-link-tl-mr3220-v1 0.2.1 baf660f9ec670ce2aae0bab3ec060034c55ddd3d3677482d9cdcdcae9a34aea91f486a463dfc7285e961762fddcda1cbcdd7b5193827862550aea651260a7f73 gluon-ffsaar-0.2.1-tp-link-tl-mr3220-v1-sysupgrade.bin
+tp-link-tl-mr3420-v1 0.2.1 43a8f94e4072fd60499ec70f898700a34f9ba763069ae14ddf1df41d18a200566c18496f0f6062ff7cb4710e3ad07021376306394c8f449d56e8492ae5dbd106 gluon-ffsaar-0.2.1-tp-link-tl-mr3420-v1-sysupgrade.bin
+tp-link-tl-mr3420-v2 0.2.1 e8ebc2ecb70f8174619765741c16d251bee7d437fab9d7c4e1f606747089c340a84bde52384ecaadeb6d1b77fc1ebc71fed3ea2bfe65c2dc8ffae3369a456b15 gluon-ffsaar-0.2.1-tp-link-tl-mr3420-v2-sysupgrade.bin
+ubiquiti-bullet-m 0.2.1 fd20aaf02c97a1027ab34a155288efe58013df8bb1e1c33f2f938a2b5012288a3c132f2fa87218fb10652ca8b4bb71e0bbbac9ca64423761b6191834ef49135b gluon-ffsaar-0.2.1-ubiquiti-bullet-m-sysupgrade.bin
+ubiquiti-nanostation-m 0.2.1 2d5a1a9047b4b165980ce2d6d91786ff5e03f39dca1ed83b03f0bfcb678cfcbb79e1a15278d7cc00d851aba3ca65f3162d20dae74c5451809850e0e97c3e6bfc gluon-ffsaar-0.2.1-ubiquiti-nanostation-m-sysupgrade.bin
+ubiquiti-unifi 0.2.1 2ce1382873ffa5ba3d2a1f4957a7cecf69f0bb55f903c4655242a6a59bac284346cf01e7aad1c2e0cacc3181684e9d496c33dea99825b385e6d1503e360617a5 gluon-ffsaar-0.2.1-ubiquiti-unifi-sysupgrade.bin
+ubiquiti-unifiap-outdoor 0.2.1 943f5b1013f8c6e4d54515d5837e58f0cc404dc24937a03428cc6e7da9668bc00ffae6c709f018d72fd4e09899930709bd461c927ce0f625d97fdadc3476b887 gluon-ffsaar-0.2.1-ubiquiti-unifiap-outdoor-sysupgrade.bin
+d-link-dir-825-rev-b1 0.2.1 f712aa387d21ed10db1a1b2337b30f398326c83273a0211d7c9a8186af540de0d509e5810e7b4faa07aaff60f7c582a7be60bac857ed7243d84db8fab429e496 gluon-ffsaar-0.2.1-d-link-dir-825-rev-b1-sysupgrade.bin
+linksys-wrt160nl 0.2.1 cac5e582e0ef30ee50fbd8f8959477e06aa47510bab7c27e4a15a270333058e1ad96edae30117526f65ed8b2f49222c847752ed2a3b13f733775348908107aad gluon-ffsaar-0.2.1-linksys-wrt160nl-sysupgrade.bin
+buffalo-wzr-hp-g450h 0.2.1 f770ba1ef9ac8b3e8b8b98873979e5091823c43a4b4828f3c2cb4c31c8d612472e196ed4da50fc79024f6ad7efefb5d58e671efb8d174b31acb880962457e95f gluon-ffsaar-0.2.1-buffalo-wzr-hp-g450h-sysupgrade.bin
+buffalo-wzr-hp-ag300h-wzr-600dhp 0.2.1 04060127a0917897ddff1d3663bb3b6adbb80e12afe8231b370b72b1380c71060923173a9a5fff82c4dbb349b19ac4f75e352ac2809690e1693b7c031a8d872e gluon-ffsaar-0.2.1-buffalo-wzr-hp-ag300h-wzr-600dhp-sysupgrade.bin
+---
+4c3815307ce8d057c30cacf66e5779039df288573476b665bb0a818d4cc8800ce0793f51c0a762a875bcdd43530bafe80d15deaba71e6bab3caf3c6fb71dd704
